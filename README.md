@@ -1,7 +1,7 @@
 # C/C++ Data Structures and Algorithms
 If I could describe data structures and algorithms in one sentence, it would be: *"The science of speed and efficiency."*
 
-## Welcome to the universe of speeed :rocket:
+## Welcome to the Universe of Speeed :rocket:
 #### Please feel free to check out the Notion website for all related notes and documents [Data Structures and Algorithms](https://normalized.notion.site/Data-Structures-and-Algorithms-3fd28d4c72a3464dac09e50944160cad)
 
 ## Table of Contents
