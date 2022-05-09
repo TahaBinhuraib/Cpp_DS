@@ -29,10 +29,6 @@ int main()
     reverse(c, strlen(c));
     // now print the array:
     cout << "reversed" << endl;
-    for (int i = 0; i <= strlen(c); i++)
-    {
-        cout << c[i] << " ";
-    }
-    cout << endl;
+    cout << c << endl;
     return 0;
 }
