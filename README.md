@@ -11,6 +11,7 @@ If I could describe data structures and algorithms in one sentence, it would be:
 - [Pointers](./pointers_basic/)
 - [Sorting Algorithms](./sorting_algorithms/)
 - [Stack](./stack/)
+- [Algorithms](./algorithms/)
 
 ## Contributing
 Please feel free to contribute. Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. My goal is to manage a repositor that is comprehensive in nature, and easy to understand for beginners. 
