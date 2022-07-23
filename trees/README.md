@@ -67,6 +67,5 @@ A BST is a binary tree in which for each node, the values of all the nodes in th
 > The cost of searching, inserting and removing are all `O(logn)`
 - The BST should be balanced for the aforementioned complexity!
 
-![](images/BST.png)
-
-![](images/BST2.png)
+<img src="images/BST.png" width="300"/>
+<img src="images/BST2.png" width="300"/>
