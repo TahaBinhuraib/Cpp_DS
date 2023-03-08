@@ -33,5 +33,5 @@ int main() {
    vector<int> nums = {1, 3, 4, 6};
    int target = 10;
    auto [idx1, idx2] = two_sum(nums, target);
-   cout << idx1 << idx2 << endl;
+   cout << "index_1 -> " << idx1 << " index_2 -> " << idx2 << endl;
 }
